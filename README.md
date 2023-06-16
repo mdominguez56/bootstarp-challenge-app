@@ -26,8 +26,6 @@ yarn
 yarn dev
 ```
 
-````
-
 ## Useful resources
 
 - [Project Structure](./docs/PROJECT_STRUCTURE.md)
@@ -60,9 +58,4 @@ Available scripts:
 
 ## Contributing
 
-You can report bugs, request features, and create Pull Requests in the [Create-Node-App/react-extensions](https://github.com/Create-Node-App/react-extensions) repository!
-
-```
-
-```
-````
+You can report bugs, request features and create Pull Requests in the [Create-Node-App/react-extensions](https://github.com/Create-Node-App/react-extensions) repository!
