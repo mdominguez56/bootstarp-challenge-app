@@ -39,9 +39,9 @@ yarn dev
 While developing, you will probably rely mostly on `yarn start`; however, there are additional scripts at your disposal:
 
 | `yarn <script>` | Description                                                                                                             |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------- | --- |
 | `dev`           | Serves your app at for local development                                                                                |
-| `test`          | Runs unit tests with Jest. See [testing](#testing)                                                                      |
+| `test`          | Runs unit tests with Jest. See [testing]                                                                                |     |
 | `test:watch`    | Runs `test` in watch mode to re-run tests when changed                                                                  |
 | `format`        | Formats the project using [Prettier](https://prettier.io/)                                                              |
 | `lint`          | [Lints](http://stackoverflow.com/questions/8503559/what-is-linting) the project for potential errors                    |
