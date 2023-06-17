@@ -1,8 +1,11 @@
 import React from 'react';
-import Cracked from '@/components/Animation/Cracked';
+import NavBar from '@/components/NavBar';
 
-import './Landing.css';
-
-const Landing = () => <Cracked>bootstarp-challenge-app</Cracked>;
+const Landing = () => (
+  <div>
+    <NavBar />
+    Landing
+  </div>
+);
 
 export default Landing;
